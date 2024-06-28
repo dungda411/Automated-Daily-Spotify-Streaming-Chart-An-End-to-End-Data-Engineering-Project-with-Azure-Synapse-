@@ -1,0 +1,396 @@
+Genre_ID,Genre_Name
+1,british invasion
+2,melodic house
+3,nu metal
+4,azonto
+5,deep underground hip hop
+6,r&b francais
+7,soft rock
+8,k-pop boy group
+9,pop reggaeton
+10,bachata
+11,funk pop
+12,agronejo
+13,country road
+14,east coast hip hop
+15,metropopolis
+16,rap dominicano
+17,pop soul
+18,kindermusik
+19,downtempo
+20,sophisti-pop
+21,musica chihuahuense
+22,k-pop
+23,bolero
+24,nigerian hip hop
+25,latin arena pop
+26,girl group
+27,pop dance
+28,singer-songwriter
+29,irish rock
+30,uk hip hop
+31,southern hip hop
+32,industrial rock
+33,psychedelic pop
+34,italian hip hop
+35,alternative r&b
+36,r&b en espanol
+37,j-division
+38,pop argentino
+39,modern folk rock
+40,neue deutsche harte
+41,hardcore hip hop
+42,azontobeats
+43,el paso indie
+44,canadian rock
+45,pixie
+46,musica tocantinense
+47,urban contemporary
+48,indie rock
+49,moombahton
+50,funk metal
+51,mambo chileno
+52,soul
+53,k-pop girl group
+54,neo-psychedelic
+55,canadian trap
+56,pop venezolano
+57,australian hip hop
+58,uk americana
+59,skate punk
+60,miami hip hop
+61,sertanejo pop
+62,etherpop
+63,west coast rap
+64,industrial metal
+65,dfw rap
+66,rock drums
+67,nu-cumbia
+68,art rock
+69,post-teen pop
+70,german techno
+71,trance
+72,dancehall
+73,mexican pop
+74,banda
+75,pittsburgh rap
+76,rap latina
+77,urbano espanol
+78,indian instrumental
+79,chill abstract hip hop
+80,seattle hip hop
+81,glam rock
+82,mississippi hip hop
+83,viral pop
+84,uk contemporary r&b
+85,chicago indie
+86,sheffield indie
+87,motown
+88,acoustic pop
+89,funk
+90,german drill
+91,new romantic
+92,indie pop rap
+93,alt z
+94,oxford indie
+95,rap
+96,springfield mo indie
+97,classic canadian rock
+98,tropical
+99,trap italiana
+100,dream pop
+101,melodic metalcore
+102,trap soul
+103,conscious hip hop
+104,new wave
+105,houston rap
+106,reggae
+107,urbano chileno
+108,indietronica
+109,rap metal
+110,sertanejo universitario
+111,cancion melodica
+112,french hip hop
+113,bedroom pop
+114,thrash metal
+115,trap boricua
+116,ambient pop
+117,post-grunge
+118,german soundtrack
+119,pop nacional
+120,electronic trap
+121,canadian singer-songwriter
+122,stomp and holler
+123,punk
+124,progressive house
+125,memphis hip hop
+126,neo mellow
+127,canadian metal
+128,pluggnb
+129,funk rock
+130,trap queen
+131,modern indie pop
+132,corridos tumbados
+133,big room
+134,reggaeton
+135,gangster rap
+136,alternative rock
+137,pop r&b
+138,art pop
+139,hypertechno
+140,dutch edm
+141,musica mexicana
+142,sad sierreno
+143,plugg
+144,dutch house
+145,argentine hip hop
+146,mexican rock
+147,rock-and-roll
+148,alternative pop rock
+149,gauze pop
+150,uk alternative pop
+151,edmonton indie
+152,country rock
+153,lgbtq+ hip hop
+154,swedish pop
+155,shiver pop
+156,modern salsa
+157,electro
+158,canadian hip hop
+159,edm
+160,australian indie
+161,progressive rock
+162,glee club
+163,escape room
+164,metalcore
+165,deep house
+166,dance pop
+167,pop punk
+168,industrial
+169,madchester
+170,singer-songwriter pop
+171,dance rock
+172,funk rj
+173,florida rap
+174,swamp rock
+175,modern bollywood
+176,forro
+177,dembow
+178,complextro
+179,filmi
+180,progressive electro house
+181,florida drill
+182,brooklyn drill
+183,british soul
+184,bachata dominicana
+185,crunk
+186,rap conscient
+187,groove metal
+188,rockabilly
+189,roots reggae
+190,north carolina hip hop
+191,filter house
+192,neo soul
+193,cali rap
+194,canadian pop
+195,reggaeton chileno
+196,country pop
+197,kleine hoerspiel
+198,hip hop
+199,spanish hip hop
+200,st louis rap
+201,hard rock
+202,pagode baiano
+203,norteno
+204,rap belge
+205,arrocha
+206,pov: indie
+207,australian psych
+208,dutch trance
+209,minnesota hip hop
+210,new jersey rap
+211,contemporary r&b
+212,yacht rock
+213,panamanian pop
+214,lo-fi indie
+215,merseybeat
+216,synthpop
+217,indie rock italiano
+218,old school atlanta hip hop
+219,piano rock
+220,sierreno
+221,hoerspiel
+222,emo rap
+223,glam metal
+224,latin viral pop
+225,electro latino
+226,irish singer-songwriter
+227,outlaw country
+228,underground hip hop
+229,video game music
+230,black americana
+231,stomp pop
+232,europop
+233,pop emo
+234,desi hip hop
+235,mexican hip hop
+236,melancholia
+237,soundtrack
+238,la pop
+239,slacker rock
+240,contemporary country
+241,pop
+242,latin pop
+243,electro house
+244,queens hip hop
+245,eau claire indie
+246,emo
+247,italian pop
+248,tropical house
+249,g funk
+250,atl hip hop
+251,australian rock
+252,baroque pop
+253,grupera
+254,rock
+255,metal
+256,socal pop punk
+257,pop rap
+258,mellow gold
+259,permanent wave
+260,psychedelic rock
+261,brostep
+262,australian pop
+263,heartland rock
+264,chamber pop
+265,scandipop
+266,latin hip hop
+267,trap triste
+268,oakland hip hop
+269,ohio hip hop
+270,cantautor
+271,new orleans rap
+272,australian dance
+273,german dance
+274,candy pop
+275,r&b argentino
+276,danish pop
+277,modern rock
+278,uk pop
+279,deep euro house
+280,atl trap
+281,house
+282,sped up
+283,salsa
+284,canadian latin
+285,bases de freestyle
+286,shoegaze
+287,german hip hop
+288,hawaiian hip hop
+289,uk post-punk
+290,colombian pop
+291,nyc rap
+292,afrofuturism
+293,garage rock
+294,chill pop
+295,chicago drill
+296,belgian dance
+297,reggaeton flow
+298,swedish synthpop
+299,rock en espanol
+300,disco
+301,arkansas country
+302,nz pop
+303,uk metalcore
+304,kentucky hip hop
+305,rap marseille
+306,classic rock
+307,indie pop
+308,country
+309,easy listening
+310,dark trap
+311,alternative hip hop
+312,old school thrash
+313,pop urbaine
+314,rap canario
+315,dirty south rap
+316,show tunes
+317,southern rock
+318,korean ost
+319,barbadian pop
+320,jazz funk
+321,irish hip hop
+322,baton rouge rap
+323,slap house
+324,talent show
+325,swedish electropop
+326,gen z singer-songwriter
+327,tamil hip hop
+328,adult standards
+329,trap argentino
+330,boy band
+331,jazz pop
+332,modern country rock
+333,neo-singer-songwriter
+334,5th gen k-pop
+335,grunge
+336,r&drill
+337,hip pop
+338,melodic rap
+339,indie poptimism
+340,spanish pop
+341,rage rap
+342,corrido
+343,power pop
+344,lounge
+345,indie soul
+346,uk dance
+347,indie folk
+348,modern alternative rock
+349,australian electropop
+350,reggaeton colombiano
+351,mariachi
+352,hamburg hip hop
+353,pop house
+354,electropop
+355,cloud rap
+356,celtic rock
+357,canadian contemporary r&b
+358,new wave pop
+359,brooklyn indie
+360,tennessee hip hop
+361,uk funky
+362,trap latino
+363,orchestral soundtrack
+364,pop rock
+365,afrobeats
+366,opm
+367,urbano latino
+368,r&b
+369,trap
+370,sertanejo
+371,puerto rican pop
+372,latin rock
+373,belgian hip hop
+374,german metal
+375,alternative metal
+376,gruperas inmortales
+377,afropop
+378,melodic drill
+379,belgian edm
+380,ranchera
+381,south carolina hip hop
+382,symphonic rock
+383,classic oklahoma country
+384,speedrun
+385,philly rap
+386,detroit hip hop
+387,chicago rap
+388,album rock
+389,drill
+390,beatlesque
+391,hyperpop
+392,folk-pop
+393,nigerian pop
+394,britpop
+395,broadway
