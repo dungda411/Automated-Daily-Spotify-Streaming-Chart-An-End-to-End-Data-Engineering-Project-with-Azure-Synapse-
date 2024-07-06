@@ -1,1 +1,1 @@
-# Spotify-daily-stream-end-to-end-data-engineering-project
+# Spotify daily stream end to end data engineering project
