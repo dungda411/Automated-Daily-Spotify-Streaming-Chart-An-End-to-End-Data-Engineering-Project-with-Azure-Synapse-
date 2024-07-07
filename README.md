@@ -48,6 +48,8 @@ After be built, the pipeline was tested and scheduled daily. Any errors occurrin
 ### Serverless SQL Database to Power BI
 ![image](https://github.com/dungda411/Automated-Daily-Spotify-Streaming-Chart-An-End-to-End-Data-Engineering-Project-with-Azure-Synapse-/assets/157843205/8230616e-ba98-4ffc-8e5c-6cbf33e60fba)
 ![image](https://github.com/dungda411/Automated-Daily-Spotify-Streaming-Chart-An-End-to-End-Data-Engineering-Project-with-Azure-Synapse-/assets/157843205/18870228-c61d-4d10-b3ff-e4c209a6ddc4)
+![image](https://github.com/dungda411/Automated-Daily-Spotify-Streaming-Chart-An-End-to-End-Data-Engineering-Project-with-Azure-Synapse-/assets/157843205/1ecb01dd-124e-4a5b-9ec0-b21df59a1edc)
+
 
 Power Bi is then connected with Synapse serverless SQL database via an endpoint. If the database is affected, the Power BI can also be changed by refreshing. After the dashboard is completed and published, the semantic model is scheduled daily (after database updating 1 hour, allowing the update is fully run).
 
