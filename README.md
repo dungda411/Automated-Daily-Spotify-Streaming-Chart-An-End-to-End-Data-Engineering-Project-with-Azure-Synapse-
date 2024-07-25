@@ -5,7 +5,7 @@
 For a long time, I’ve been in fandoms of many big artists. And a common characteristic of these group is that they are obsessed with numbers and charts. So, I just thought that why I do not create an automatically daily updated streams report, which is a way to expose myself to the area of data engineering, but is still what I am interested in.
 
 ## Tools Used
-- <b>Programming Language</b>: Python (scraping and API requesting), SQL (data integration and database inspection).
+- <b>Programming Language</b>: Python (scraping and API requesting), SQL (data integration and database querying).
 - <b>ETL tool</b>: Azure Synapse Analytics
 - <b>Report tool</b>: Power BI
 
@@ -39,6 +39,7 @@ The data after being scrapes is stored in a container in Azure Storage Account. 
 The datasets are then integrated to serverless SQL database through a dynamic process. First, all file names are extracted through "Get Metadata", by getting all child items of the container. Then, all their names are brought into the for loop with a "Stored Procedure" which is a SQL script to Create or Alter tables in the SQL database.
 
 ![image](https://github.com/dungda411/Automated-Daily-Spotify-Streaming-Chart-An-End-to-End-Data-Engineering-Project-with-Azure-Synapse-/assets/157843205/642784d7-8ead-4820-9abf-d5a459719c90)
+![image](https://github.com/user-attachments/assets/d5ecb406-bd38-435a-96f5-b8b2537d8e87)
 ![image](https://github.com/dungda411/Automated-Daily-Spotify-Streaming-Chart-An-End-to-End-Data-Engineering-Project-with-Azure-Synapse-/assets/157843205/659bd066-2a6a-4aec-b1d9-4b88d0062f87)
 
 #### Trigger Setting
