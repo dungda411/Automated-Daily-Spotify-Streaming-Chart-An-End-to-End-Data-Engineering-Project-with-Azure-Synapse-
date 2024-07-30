@@ -1,3 +1,4 @@
+--- Total Artist's Daily Stream
 WITH lead_artist_name AS(
     SELECT Artist_Name, Artist_ID, Song_ID
     FROM artist_info AS ai
